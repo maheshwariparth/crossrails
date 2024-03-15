@@ -1,0 +1,7 @@
+.filters {
+    height: 400px;
+}
+
+.search-button:hover {
+    border-color: blue;
+}
